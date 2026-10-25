@@ -1,0 +1,13 @@
+{
+  "is_demo": true,
+  "currency": "CNY",
+  "unit": "million; diluted_shares in million shares",
+  "net_debt": 100,
+  "diluted_shares": 100,
+  "price": 12,
+  "scenarios": {
+    "base": {"ufcf": [100, 110, 120, 130, 140], "wacc": 0.10, "terminal_growth": 0.02},
+    "bull": {"ufcf": [110, 125, 145, 165, 180], "wacc": 0.09, "terminal_growth": 0.025},
+    "bear": {"ufcf": [90, 85, 80, 85, 90], "wacc": 0.12, "terminal_growth": 0.01}
+  }
+}

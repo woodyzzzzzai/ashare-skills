@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 现金流折现建模"
+  short_description: "沪深北 A 股现金流折现建模，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-dcf-modeling，先检查覆盖再开展现金流折现建模。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 利润池分析"
+  short_description: "沪深北 A 股利润池分析，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-profit-pool-analysis，先检查覆盖再开展利润池分析。"

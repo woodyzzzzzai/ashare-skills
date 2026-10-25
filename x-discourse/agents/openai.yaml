@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 社交讨论研究"
+  short_description: "沪深北 A 股社交讨论研究，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-x-discourse，先检查覆盖再开展社交讨论研究。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 特殊情形筛选"
+  short_description: "沪深北 A 股特殊情形筛选，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-special-situations-screen，先检查覆盖再开展特殊情形筛选。"

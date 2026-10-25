@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 增长画像"
+  short_description: "沪深北 A 股增长画像，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-growth-profile，先检查覆盖再开展增长画像。"

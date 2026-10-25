@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 同业对标"
+  short_description: "沪深北 A 股同业对标，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-peer-benchmarking，先检查覆盖再开展同业对标。"

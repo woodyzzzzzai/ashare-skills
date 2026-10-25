@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 财报前瞻"
+  short_description: "沪深北 A 股财报前瞻，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-earnings-preview，先检查覆盖再开展财报前瞻。"

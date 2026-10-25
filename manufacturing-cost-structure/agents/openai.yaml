@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 制造成本结构"
+  short_description: "沪深北 A 股制造成本结构，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-manufacturing-cost-structure，先检查覆盖再开展制造成本结构。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 盈利预测修正"
+  short_description: "沪深北 A 股盈利预测修正，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-earnings-revisions，先检查覆盖再开展盈利预测修正。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 卖方研报摘要"
+  short_description: "沪深北 A 股卖方研报摘要，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-sell-side-brief，先检查覆盖再开展卖方研报摘要。"

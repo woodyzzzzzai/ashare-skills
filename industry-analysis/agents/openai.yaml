@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 行业研究"
+  short_description: "沪深北 A 股行业研究，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-industry-analysis，先检查覆盖再开展行业研究。"

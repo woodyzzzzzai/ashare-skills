@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 供应链韧性"
+  short_description: "沪深北 A 股供应链韧性，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-supply-chain-resilience，先检查覆盖再开展供应链韧性。"

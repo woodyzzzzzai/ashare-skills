@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 多空论点"
+  short_description: "沪深北 A 股多空论点，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-long-short-ideas，先检查覆盖再开展多空论点。"

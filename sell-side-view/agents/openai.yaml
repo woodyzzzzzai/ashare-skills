@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 卖方观点比较"
+  short_description: "沪深北 A 股卖方观点比较，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-sell-side-view，先检查覆盖再开展卖方观点比较。"

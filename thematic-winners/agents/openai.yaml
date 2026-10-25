@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 主题受益者"
+  short_description: "沪深北 A 股主题受益者，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-thematic-winners，先检查覆盖再开展主题受益者。"

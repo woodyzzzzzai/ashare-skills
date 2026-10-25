@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 基本面综合研究"
+  short_description: "沪深北 A 股基本面综合研究，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-fundamental-guru，先检查覆盖再开展基本面综合研究。"

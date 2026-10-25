@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 情绪解读"
+  short_description: "沪深北 A 股情绪解读，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-sentiment-read，先检查覆盖再开展情绪解读。"

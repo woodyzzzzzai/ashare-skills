@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股 · 初步筛选"
+  short_description: "沪深北 A 股初步筛选，基于本地可追溯数据"
+  default_prompt: "使用 $ashare-initial-screen，先检查覆盖再开展初步筛选。"
